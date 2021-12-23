@@ -1,6 +1,6 @@
 <?php
 
-namespace DChallman\SimplePHPArticles;
+namespace dchallman\SimplePHPArticles;
 
 class SPA
 {

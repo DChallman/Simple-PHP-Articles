@@ -1,5 +1,5 @@
 {
-    "name": "DChallman/Simple-PHP-Articles",
+    "name": "dchallman/simple-php-articles",
     "description": "Simple PHP Articles with no other frameworks, databases or CRUD functionality needed.",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DChallman\\SimplePHPArticles\\": "src/"
+            "dchallman\\SimplePHPArticles\\": "src/"
         }
     },
     "minimum-stability": "dev",
