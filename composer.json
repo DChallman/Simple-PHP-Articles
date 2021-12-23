@@ -1,0 +1,20 @@
+{
+    "name": "DChallman/Simple-PHP-Articles",
+    "description": "Simple PHP Articles with no other frameworks, databases or CRUD functionality needed.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devyn Challman",
+            "email": "dchallman@ewu.edu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DChallman\\SimplePHPArticles\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
